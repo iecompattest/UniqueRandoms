@@ -49,7 +49,6 @@ My methods: (Feel free to contrib.)
 	 */
 
 	public void setDraws(int amountOfDraws) 
-
 	/**
 	 * Gives the length of the array back.
 	 */
@@ -65,7 +64,8 @@ My methods: (Feel free to contrib.)
 	public void setCustomDrawingRange(long range) 
 
 	/**
-	 * Allows you to change the standard range of the drawn numbers (Max:	 * (2^63-1)/long"). If not specified: (standard range: 45)
+	 * Allows you to change the standard range of the drawn numbers (Max:(2^63-1)/long").
+	 If not specified: (standard range: 45)
 	 */
 
 	public void setStandardDrawingRange(long range) 
