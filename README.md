@@ -3,6 +3,8 @@
 I started learning Java since October 3rd at IntecBrussel. And now I'm discovering. I want to chare something I started working on today (12/02/2016). So I'm sharing :)
 
 My methods: (Feel free to contrib.)
+
+
 /**
 	 * draws a number from 1 to max. integer capacity.
 	 */
